@@ -1,3 +1,3 @@
 # CTF-related stuffs
 
-Feel free to ask questions about the posted material here!
+Feel free to ask questions about the material posted here!
