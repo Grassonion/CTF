@@ -6,6 +6,7 @@
 
 ## What can we do?
 When logged in and executing the ls command I can see that we have an executable with root privileges that I can run. This is probably the way to escalate our privileges.
+
 ![alt text](imgs/ls.png "ls")
 
 A test run of the file does not give us anything. By using the _strings_ command on the file we might get a little bit more understanding of what it is doing.
