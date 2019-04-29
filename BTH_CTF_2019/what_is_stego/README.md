@@ -4,7 +4,7 @@
 
 Made by me so this is the intended solution, a little bit heavy on the use of programs but that is the steganography-life :)  
 
-(for some reason I did this with the windows versions of jphide and jpseek (version 0.51) which does not seem to be compatible with version the linux 0.3 version... So I am sorry if you did this right but got garbage at the end!)
+(for some reason I did this with the windows versions of jphide and jpseek (version 0.51) which does not seem to be compatible with  the linux 0.3 version... So I am sorry if you did this right but got garbage at the end!)
 
 It is a jpg file and it mentions stego so lets pick some tool which can handle jpg files.
 ![alt text](imgs/stegdetect.png "stegdetect")
