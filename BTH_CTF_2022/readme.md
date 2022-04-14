@@ -1,4 +1,4 @@
-# My challenges and writeups from the offline CTF at BTH 2022
+# My challenges with intended solutions from the offline CTF at BTH 2022
 
 ## Forensics
  - bills_mind
