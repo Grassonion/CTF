@@ -1,0 +1,16 @@
+Ingridients needed:
+	* One textfile of characters
+
+Delicious end result:
+	* A 44 character long flag
+
+
+Cooking instructions:
+	1. Gather all the rows
+	2. Half of the rows can be discarded. The second half in fact.
+	3. While you are at it - you can cut every row in half. Again keep the first half.
+	4. Delete every other row - Start with the very first one.
+	5. For every fourth row starting at row one you should swap a character with row zero.
+	6. Keep count of those rows - start counting at zero and do not count any longer than the length of the flag.
+	7. The character to swap between the two rows are at the position that you currently have counted to.
+
